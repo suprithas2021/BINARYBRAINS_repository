@@ -1,0 +1,53 @@
+*{
+    font-family: "sofia",sans-serif;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: azure;
+    font-style: var(5px);
+    
+}
+img{
+    display: block;
+    width: 800px;
+    margin: 0 auto;
+    transition: 1s;
+    
+}
+.in{
+    border: 7px solid rgb(143, 8, 17);
+  padding: 10px;
+  margin: left 10%;
+  width: 1290px;
+  height: 1000px;
+  text-align: justify;
+  font-style: oblique;
+  font-size: 25px;
+  color: rgb(249, 245, 245);  
+
+
+
+
+}
+h2{
+    font-family: Georgia, serif;
+  font-size: 60px;
+  color: white;
+  text-decoration: underline;
+}
+h3{
+    text-align: center;
+    color: rgb(222, 201, 12);
+}
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .p2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
